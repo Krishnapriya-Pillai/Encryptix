@@ -1,2 +1,2 @@
-TASK 1 - Chatbot with rule-based responses
+TASK 2 - Tic-Tac-Toe AI
 Building a simple chatbot that responds to user inputs based on predefined rules. Uses if-else statements or pattern matching techniques to identify user queries and provide appropriate responses. This gives a basic understanding of natural language processing and conversational flow.

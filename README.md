@@ -1,9 +1,9 @@
 # Encryptix
-Recommendation system: Create a simple recommendation system that suggests items to sers based on their preferences. You can use techniques like collaborative filtering or content-based filtering to recommend movies, books, or products to users.
+Recommendation system: Create a simple recommendation system that suggests items to users based on their preferences. You can use techniques like collaborative filtering or content-based filtering to recommend movies, books, or products to users.
 
-Based on the datset,it is a content based recommendation system that:
+Based on the dataset,it is a content based recommendation system that:
 1. uses user ratings to find similar movies
-2. finds th enearest neighbor using cosine similarity
+2. finds the nearest neighbor using cosine similarity
 3. recommends movies based on a movie title entered by user
 
 ratings.csv - contains the ratings by the users
